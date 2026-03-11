@@ -227,4 +227,8 @@ Un asesor te contactará en breve por este mismo WhatsApp para confirmar stock, 
 startBot().catch(err => {
     console.error("Error crítico al iniciar bot:", err)
     process.exit(1)
+<<<<<<< HEAD
 })
+=======
+})
+>>>>>>> 5bea092bd11c5e099dde90284ea9b8f579e7d867
